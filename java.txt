@@ -1,1 +1,2 @@
+https de repositorie sur github  => "https://github.com/el-orabi/ocrr.git"
 2 eme fichie pour l'exercice de openclassroom
