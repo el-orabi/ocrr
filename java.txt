@@ -2,4 +2,5 @@ https de repositorie sur github  => "https://github.com/el-orabi/ocrr.git"
 2 eme fichie pour l'exercice de openclassroom
 le travail est teminer 
 tu peux paintenant contunuer le rest du cour
-
+ Gérez votre code avec Git et GitHub
+ mot de pass
